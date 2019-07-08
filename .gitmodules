@@ -1,0 +1,45 @@
+[submodule "bundle/editorconfig-vim"]
+	path = bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdtree-git-plugin"]
+	path = bundle/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/ctrlpvim"]
+	path = bundle/ctrlpvim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "bundle/nvim-yarp"]
+	path = bundle/nvim-yarp
+	url = https://github.com/roxma/nvim-yarp
+[submodule "bundle/ncm2"]
+	path = bundle/ncm2
+	url = https://github.com/ncm2/ncm2
+[submodule "bundle/ncm2-bufword"]
+	path = bundle/ncm2-bufword
+	url = https://github.com/ncm2/ncm2-bufword
+[submodule "bundle/ncm2-path"]
+	path = bundle/ncm2-path
+	url = https://github.com/ncm2/ncm2-path
+[submodule "bundle/ncm2-jedi"]
+	path = bundle/ncm2-jedi
+	url = https://github.com/ncm2/ncm2-jedi
+[submodule "bundle/ncm2-tern"]
+	path = bundle/ncm2-tern
+	url = https://github.com/ncm2/ncm2-tern
