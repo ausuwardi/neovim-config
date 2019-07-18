@@ -43,3 +43,18 @@
 [submodule "bundle/ncm2-tern"]
 	path = bundle/ncm2-tern
 	url = https://github.com/ncm2/ncm2-tern
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "bundle/vim-svelte"]
+	path = bundle/vim-svelte
+	url = https://github.com/burner/vim-svelte.git
+[submodule "bundle/ncm2-cssomni"]
+	path = bundle/ncm2-cssomni
+	url = https://github.com/ncm2/ncm2-cssomni
+[submodule "bundle/ncm2-racer"]
+	path = bundle/ncm2-racer
+	url = https://github.com/ncm2/ncm2-racer
+[submodule "bundle/ncm2-alchemist"]
+	path = bundle/ncm2-alchemist
+	url = https://github.com/pbogut/ncm2-alchemist
